@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a4ff9240-fa8e-4423-bd6a-ec6040a2e34e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2AGWAx2rwb8Q58h6trstzKnwHr3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.idesettings.quicklists" />
+  </component>
+  <component name="RunManager">
+    <configuration name="GameSaverTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GameSaverTest" />
+      <module name="untitled1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GameSaverTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a4ff9240-fa8e-4423-bd6a-ec6040a2e34e" name="Default Changelist" comment="" />
+      <created>1654636262033</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654636262033</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="2068" height="408" key="GridCell.Tab.0.bottom" timestamp="1654637370120">
+      <screen x="4" y="23" width="2556" height="1417" />
+    </state>
+    <state width="2068" height="408" key="GridCell.Tab.0.bottom/4.23.2556.1417@4.23.2556.1417" timestamp="1654637370120" />
+    <state width="2068" height="408" key="GridCell.Tab.0.center" timestamp="1654637370120">
+      <screen x="4" y="23" width="2556" height="1417" />
+    </state>
+    <state width="2068" height="408" key="GridCell.Tab.0.center/4.23.2556.1417@4.23.2556.1417" timestamp="1654637370120" />
+    <state width="2068" height="408" key="GridCell.Tab.0.left" timestamp="1654637370119">
+      <screen x="4" y="23" width="2556" height="1417" />
+    </state>
+    <state width="2068" height="408" key="GridCell.Tab.0.left/4.23.2556.1417@4.23.2556.1417" timestamp="1654637370119" />
+    <state width="2068" height="408" key="GridCell.Tab.0.right" timestamp="1654637370120">
+      <screen x="4" y="23" width="2556" height="1417" />
+    </state>
+    <state width="2068" height="408" key="GridCell.Tab.0.right/4.23.2556.1417@4.23.2556.1417" timestamp="1654637370120" />
+    <state x="898" y="564" key="com.intellij.ide.util.TipDialog" timestamp="1654801978490">
+      <screen x="4" y="23" width="2556" height="1417" />
+    </state>
+    <state x="898" y="564" key="com.intellij.ide.util.TipDialog/4.23.2556.1417@4.23.2556.1417" timestamp="1654801978490" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1654636709793">
+      <screen x="4" y="23" width="2556" height="1417" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/4.23.2556.1417@4.23.2556.1417" timestamp="1654636709793" />
+  </component>
+</project>

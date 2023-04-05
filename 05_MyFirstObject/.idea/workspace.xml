@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="72aaa0f0-91a5-4f40-9b29-6ef7982195e2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1W4kEh8DVodv71hAH9d2LwxeNdS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="13" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager">
+    <configuration name="DogTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DogTestDrive" />
+      <module name="My First Object" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="My First Object" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="My First Object" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DogTestDrive" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="72aaa0f0-91a5-4f40-9b29-6ef7982195e2" name="Default Changelist" comment="" />
+      <created>1578416144041</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578416144041</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1470" height="334" key="GridCell.Tab.0.bottom" timestamp="1578417684408">
+      <screen x="4" y="23" width="2556" height="1417" />
+    </state>
+    <state width="1470" height="334" key="GridCell.Tab.0.bottom/4.23.2556.1417/2560.23.1920.1057@4.23.2556.1417" timestamp="1578417684408" />
+    <state width="1470" height="334" key="GridCell.Tab.0.center" timestamp="1578417684407">
+      <screen x="4" y="23" width="2556" height="1417" />
+    </state>
+    <state width="1470" height="334" key="GridCell.Tab.0.center/4.23.2556.1417/2560.23.1920.1057@4.23.2556.1417" timestamp="1578417684407" />
+    <state width="1470" height="334" key="GridCell.Tab.0.left" timestamp="1578417684406">
+      <screen x="4" y="23" width="2556" height="1417" />
+    </state>
+    <state width="1470" height="334" key="GridCell.Tab.0.left/4.23.2556.1417/2560.23.1920.1057@4.23.2556.1417" timestamp="1578417684406" />
+    <state width="1470" height="334" key="GridCell.Tab.0.right" timestamp="1578417684408">
+      <screen x="4" y="23" width="2556" height="1417" />
+    </state>
+    <state width="1470" height="334" key="GridCell.Tab.0.right/4.23.2556.1417/2560.23.1920.1057@4.23.2556.1417" timestamp="1578417684408" />
+    <state x="856" y="449" key="SettingsEditor" timestamp="1578418174100">
+      <screen x="4" y="23" width="2556" height="1417" />
+    </state>
+    <state x="856" y="449" key="SettingsEditor/4.23.2556.1417/2560.23.1920.1057@4.23.2556.1417" timestamp="1578418174100" />
+    <state x="1026" y="642" key="com.intellij.ide.util.TipDialog" timestamp="1578418098476">
+      <screen x="4" y="23" width="2556" height="1417" />
+    </state>
+    <state x="1026" y="642" key="com.intellij.ide.util.TipDialog/4.23.2556.1417/2560.23.1920.1057@4.23.2556.1417" timestamp="1578418098476" />
+    <state x="740" y="431" key="new project wizard" timestamp="1578421208479">
+      <screen x="4" y="23" width="2556" height="1417" />
+    </state>
+    <state x="740" y="431" key="new project wizard/4.23.2556.1417/2560.23.1920.1057@4.23.2556.1417" timestamp="1578421208479" />
+  </component>
+</project>

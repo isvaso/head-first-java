@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2e65ebc4-9d9e-4ab9-aa11-80237db91574" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="284kvXAKs2UJxOCz3eFXf9BmdBc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.idesettings.quicklists" />
+  </component>
+  <component name="RunManager">
+    <configuration name="SimpleDotComTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SimpleDotComTestDrive" />
+      <module name="SimpleDotCom TestCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SimpleDotComTestDrive" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e65ebc4-9d9e-4ab9-aa11-80237db91574" name="Default Changelist" comment="" />
+      <created>1650483476537</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650483476537</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1034" y="485" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1650484104228">
+      <screen x="4" y="23" width="2556" height="1417" />
+    </state>
+    <state x="1034" y="485" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/4.23.2556.1417@4.23.2556.1417" timestamp="1650484104228" />
+    <state width="2068" height="408" key="GridCell.Tab.0.bottom" timestamp="1650487643605">
+      <screen x="4" y="23" width="2556" height="1417" />
+    </state>
+    <state width="2068" height="408" key="GridCell.Tab.0.bottom/4.23.2556.1417@4.23.2556.1417" timestamp="1650487643605" />
+    <state width="2068" height="408" key="GridCell.Tab.0.center" timestamp="1650487643605">
+      <screen x="4" y="23" width="2556" height="1417" />
+    </state>
+    <state width="2068" height="408" key="GridCell.Tab.0.center/4.23.2556.1417@4.23.2556.1417" timestamp="1650487643605" />
+    <state width="2068" height="408" key="GridCell.Tab.0.left" timestamp="1650487643604">
+      <screen x="4" y="23" width="2556" height="1417" />
+    </state>
+    <state width="2068" height="408" key="GridCell.Tab.0.left/4.23.2556.1417@4.23.2556.1417" timestamp="1650487643604" />
+    <state width="2068" height="408" key="GridCell.Tab.0.right" timestamp="1650487643605">
+      <screen x="4" y="23" width="2556" height="1417" />
+    </state>
+    <state width="2068" height="408" key="GridCell.Tab.0.right/4.23.2556.1417@4.23.2556.1417" timestamp="1650487643605" />
+    <state x="975" y="564" key="com.intellij.ide.util.TipDialog" timestamp="1650483482397">
+      <screen x="4" y="23" width="2556" height="1417" />
+    </state>
+    <state x="975" y="564" key="com.intellij.ide.util.TipDialog/4.23.2556.1417@4.23.2556.1417" timestamp="1650483482397" />
+  </component>
+</project>

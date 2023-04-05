@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dffb4213-2b38-43b7-a70c-9c34f55c728c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2AlCr9Jixk5nF2khRL2Dyvo0v2T" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.idesettings.quicklists" />
+  </component>
+  <component name="RunManager">
+    <configuration name="BankUsersWorking" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BankUsersWorking" />
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BankUsersWorking" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dffb4213-2b38-43b7-a70c-9c34f55c728c" name="Default Changelist" comment="" />
+      <created>1655574980569</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655574980569</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="2068" height="408" key="GridCell.Tab.0.bottom" timestamp="1655577596178">
+      <screen x="4" y="23" width="2556" height="1417" />
+    </state>
+    <state width="2068" height="408" key="GridCell.Tab.0.bottom/4.23.2556.1417/2560.23.1920.1057@4.23.2556.1417" timestamp="1655577596178" />
+    <state width="2068" height="408" key="GridCell.Tab.0.center" timestamp="1655577596177">
+      <screen x="4" y="23" width="2556" height="1417" />
+    </state>
+    <state width="2068" height="408" key="GridCell.Tab.0.center/4.23.2556.1417/2560.23.1920.1057@4.23.2556.1417" timestamp="1655577596177" />
+    <state width="2068" height="408" key="GridCell.Tab.0.left" timestamp="1655577596177">
+      <screen x="4" y="23" width="2556" height="1417" />
+    </state>
+    <state width="2068" height="408" key="GridCell.Tab.0.left/4.23.2556.1417/2560.23.1920.1057@4.23.2556.1417" timestamp="1655577596177" />
+    <state width="2068" height="408" key="GridCell.Tab.0.right" timestamp="1655577596178">
+      <screen x="4" y="23" width="2556" height="1417" />
+    </state>
+    <state width="2068" height="408" key="GridCell.Tab.0.right/4.23.2556.1417/2560.23.1920.1057@4.23.2556.1417" timestamp="1655577596178" />
+    <state x="1027" y="564" key="com.intellij.ide.util.TipDialog" timestamp="1655574984371">
+      <screen x="4" y="23" width="2556" height="1417" />
+    </state>
+    <state x="1027" y="564" key="com.intellij.ide.util.TipDialog/4.23.2556.1417/2560.23.1920.1057@4.23.2556.1417" timestamp="1655574984371" />
+  </component>
+</project>
